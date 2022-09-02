@@ -1,2 +1,4 @@
-# Email_sender
-small project in Python 
+# Beginner Python Projects
+
+#youtube channel
+https://www.youtube.com/watch?v=pdy3nh1tn6I&t=821s
