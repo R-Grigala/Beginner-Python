@@ -1,0 +1,5 @@
+1. Activate Virtual Enviroment
+    source env/bin/activate
+
+2. start flask server
+    python3 app.py
